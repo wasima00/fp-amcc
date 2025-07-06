@@ -302,9 +302,9 @@ Kontribusi selalu diterima! Untuk berkontribusi:
 
 
 ## 👨‍💻 Tim Kami
-- Yudistira Azfa Dani Wibowo
-- Wasima Juhaina
-- Ratih Intan
+- Yudistira Azfa Dani Wibowo (BE)
+- Wasima Juhaina (FE)
+- Ratih Intan (UI)
 
 ---
 <table>
@@ -314,6 +314,26 @@ Kontribusi selalu diterima! Untuk berkontribusi:
         <img src="https://github.com/litelmurpi.png" width="100px;" alt=""/>
         <br />
         <sub><b>litelmurpi</b></sub>
+      </a>
+      <br />
+      <a href="#" title="Code">💻</a>
+      <a href="#" title="Documentation">📖</a>
+    </td>
+     <td align="center">
+      <a href="https://github.com/wasima00">
+        <img src="https://github.com/wasima00.png" width="100px;" alt=""/>
+        <br />
+        <sub><b>wasima00</b></sub>
+      </a>
+      <br />
+      <a href="#" title="Code">💻</a>
+      <a href="#" title="Documentation">📖</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/ratihintandwy">
+        <img src="https://github.com/ratihintandwy.png" width="100px;" alt=""/>
+        <br />
+        <sub><b>ratihintandwy</b></sub>
       </a>
       <br />
       <a href="#" title="Code">💻</a>
